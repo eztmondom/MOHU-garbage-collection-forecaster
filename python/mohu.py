@@ -16,7 +16,7 @@ import logging
 import json, requests
 from bs4 import BeautifulSoup
 
-# --- Introductory log (bevezető log) -----------------------------------------
+# --- Introductory log --------------------------------------------------------
 logger = logging.getLogger(__name__)
 if not logger.handlers:
     logging.basicConfig(
