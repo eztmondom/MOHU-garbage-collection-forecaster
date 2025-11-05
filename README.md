@@ -61,7 +61,7 @@ The final combined script can be found here:
 
 ---
 
-## 📜 License
+## ⚖️ License
 
 This project is free to use and modify for personal automation and learning purposes.  
 If you publish derived work, please include a reference to this repository.
